@@ -15,6 +15,9 @@ $ npm install
 ```bash
 # development
 $ npm run start
+
+# test
+$ npm run test
 ```
 
 # Migrations
